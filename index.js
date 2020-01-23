@@ -1,7 +1,7 @@
 // Your code goes here
 
 let idUpdate = function(){
-  document.getElementById("text");
+  document.getElementById("text").innerHTML = "Javascript is so cool";
 }
 
 document.addEventListener("DOMContentLoaded",
